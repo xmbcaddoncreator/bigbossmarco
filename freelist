@@ -1,0 +1,767 @@
+ #EXTM3U
+#EXTINF:-1,US: FX HD
+http://104.27.131.151:8080/live/STOCK/STOCK1/1478.ts
+#EXTINF:-1,US: FXX
+http://104.27.131.151:8080/live/STOCK/STOCK1/1490.ts
+#EXTINF:-1,US: AFN Prime HD
+http://104.27.131.151:8080/live/STOCK/STOCK1/1479.ts
+#EXTINF:-1,US: AFN Pulse
+http://104.27.131.151:8080/live/STOCK/STOCK1/1468.ts
+#EXTINF:-1,US: HBO 1
+http://104.27.131.151:8080/live/STOCK/STOCK1/1433.ts
+#EXTINF:-1,US: HBO Signature
+http://104.27.131.151:8080/live/STOCK/STOCK1/1517.ts
+#EXTINF:-1,US: Starz Edge
+http://104.27.131.151:8080/live/STOCK/STOCK1/1438.ts
+#EXTINF:-1,US: Starz East
+http://104.27.131.151:8080/live/STOCK/STOCK1/1450.ts
+#EXTINF:-1,US: Starz Comedy
+http://104.27.131.151:8080/live/STOCK/STOCK1/1537.ts
+#EXTINF:-1,US: Starz Encore US
+http://104.27.131.151:8080/live/STOCK/STOCK1/1524.ts
+#EXTINF:-1,US: Showtime US
+http://104.27.131.151:8080/live/STOCK/STOCK1/1480.ts
+#EXTINF:-1,US: Cinemax ActionMax
+http://104.27.131.151:8080/live/STOCK/STOCK1/1512.ts
+#EXTINF:-1,US: Hallmark Channel
+http://104.27.131.151:8080/live/STOCK/STOCK1/1528.ts
+#EXTINF:-1,US: Comedy Central HD US
+http://104.27.131.151:8080/live/STOCK/STOCK1/1540.ts
+#EXTINF:-1,US: A&E Network
+http://104.27.131.151:8080/live/STOCK/STOCK1/1458.ts
+#EXTINF:-1,US: Bravo HD
+http://104.27.131.151:8080/live/STOCK/STOCK1/1507.ts
+#EXTINF:-1,US: A&E HD
+http://104.27.131.151:8080/live/STOCK/STOCK1/1500.ts
+#EXTINF:-1,US: NBC Golf
+http://104.27.131.151:8080/live/STOCK/STOCK1/1477.ts
+#EXTINF:-1,US: CBS HD
+http://104.27.131.151:8080/live/STOCK/STOCK1/1485.ts
+#EXTINF:-1,US: CHCH 2
+http://104.27.131.151:8080/live/STOCK/STOCK1/1482.ts
+#EXTINF:-1,US: Free Rom
+http://104.27.131.151:8080/live/STOCK/STOCK1/1465.ts
+#EXTINF:-1,US: Discovery World
+http://104.27.131.151:8080/live/STOCK/STOCK1/1499.ts
+#EXTINF:-1,US: Bloomberg
+http://104.27.131.151:8080/live/STOCK/STOCK1/1464.ts
+#EXTINF:-1,US: NatGeo Wild
+http://104.27.131.151:8080/live/STOCK/STOCK1/1484.ts
+#EXTINF:-1,US: Discovery Velocity HD
+http://104.27.131.151:8080/live/STOCK/STOCK1/1529.ts
+#EXTINF:-1,US: Famly HD
+http://104.27.131.151:8080/live/STOCK/STOCK1/1495.ts
+#EXTINF:-1,US: SEC Network
+http://104.27.131.151:8080/live/STOCK/STOCK1/1463.ts
+#EXTINF:-1,US: FOX Comedy
+http://104.27.131.151:8080/live/STOCK/STOCK1/1432.ts
+#EXTINF:-1,US: USA Network
+http://104.27.131.151:8080/live/STOCK/STOCK1/1498.ts
+#EXTINF:-1,US: CBC Toronto
+http://104.27.131.151:8080/live/STOCK/STOCK1/1541.ts
+#EXTINF:-1,US: CBC Vancover
+http://104.27.131.151:8080/live/STOCK/STOCK1/1494.ts
+#EXTINF:-1,US: Spike HD
+http://104.27.131.151:8080/live/STOCK/STOCK1/1442.ts
+#EXTINF:-1,US: E TV
+http://104.27.131.151:8080/live/STOCK/STOCK1/1531.ts
+#EXTINF:-1,US: TV ONE HD
+http://104.27.131.151:8080/live/STOCK/STOCK1/1481.ts
+#EXTINF:-1,US: CBSN HD
+http://104.27.131.151:8080/live/STOCK/STOCK1/1462.ts
+#EXTINF:-1,US: ABC 7
+http://104.27.131.151:8080/live/STOCK/STOCK1/1491.ts
+#EXTINF:-1,US: NBA TV
+http://104.27.131.151:8080/live/STOCK/STOCK1/1520.ts
+#EXTINF:-1,US: OWN
+http://104.27.131.151:8080/live/STOCK/STOCK1/1493.ts
+#EXTINF:-1,US: News Channel 21
+http://104.27.131.151:8080/live/STOCK/STOCK1/1456.ts
+#EXTINF:-1,US: ABC NEWS HD
+http://104.27.131.151:8080/live/STOCK/STOCK1/1466.ts
+#EXTINF:-1,US: BBC Amrica
+http://104.27.131.151:8080/live/STOCK/STOCK1/1514.ts
+#EXTINF:-1,US: CNN Eng
+http://104.27.131.151:8080/live/STOCK/STOCK1/1443.ts
+#EXTINF:-1,US: Msnbc
+http://104.27.131.151:8080/live/STOCK/STOCK1/1447.ts
+#EXTINF:-1,US: Beto TV
+http://104.27.131.151:8080/live/STOCK/STOCK1/1530.ts
+#EXTINF:-1,US: TWiT TV
+http://104.27.131.151:8080/live/STOCK/STOCK1/1535.ts
+#EXTINF:-1,US: TSC
+http://104.27.131.151:8080/live/STOCK/STOCK1/1449.ts
+#EXTINF:-1,USA:Bein Sports NBA
+http://190.2.150.145:1978/live/22222/22222/6294.ts
+#EXTINF:-1,USA:CMTV
+http://190.2.150.145:1978/live/22222/22222/6293.ts
+#EXTINF:-1,USA:CW HD
+http://190.2.150.145:1978/live/22222/22222/6292.ts
+#EXTINF:-1,USA:Discovery
+http://190.2.150.145:1978/live/22222/22222/6291.ts
+#EXTINF:-1,USA:Discovery_Showcase
+http://190.2.150.145:1978/live/22222/22222/6290.ts
+#EXTINF:-1,USA:FOX
+http://190.2.150.145:1978/live/22222/22222/6289.ts
+#EXTINF:-1,USA:HBO Family
+http://190.2.150.145:1978/live/22222/22222/6288.ts
+#EXTINF:-1,USA:HBO HD
+http://190.2.150.145:1978/live/22222/22222/6287.ts
+#EXTINF:-1,USA:MS NBC HD
+http://190.2.150.145:1978/live/22222/22222/6286.ts
+#EXTINF:-1,USA:Tennis Channel
+http://190.2.150.145:1978/live/22222/22222/6285.ts
+#EXTINF:-1,USA:WWE NETWORK
+http://190.2.150.145:1978/live/22222/22222/6283.ts
+#EXTINF:-1,USA:WWE RAW HD
+http://190.2.150.145:1978/live/22222/22222/6284.ts
+#EXTINF:-1,~ USA TV ~
+#EXTINF:-1,ABC News
+http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8
+#EXTINF:-1,CBS News
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+#EXTINF:-1,MSNBC (HD)
+http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/master.m3u8
+#EXTINF:-1,MSNBC (SD)
+http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/index_1296_av-p.m3u8
+#EXTINF:-1,MSNBC (SD)*
+http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/index_1896_av-b.m3u8
+#EXTINF:-1,Bloomberg TV
+http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
+#EXTINF:-1,Bloomberg TV*
+http://live-bloomberg-us-east.global.ssl.fastly.net/us/us3_live.m3u8
+#EXTINF:-1,Fox News Radio
+http://fnurtmp-f.akamaihd.net/i/FNRADIOHDS_1@92141/master.m3u8
+#EXTINF:-1,Voice of America
+http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
+#EXTINF:-1,C-SPAN
+http://cspan1-lh.akamaihd.net/i/cspan1_1@304727/master.m3u8
+#EXTINF:-1,C-SPAN 2
+http://cspan2-lh.akamaihd.net/i/cspan2_1@304728/master.m3u8
+#EXTINF:-1,C-SPAN 3
+http://cspan3-lh.akamaihd.net/i/cspan3_1@304729/master.m3u8
+#EXTINF:-1,Weather Channel
+http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
+#EXTINF:-1,Weather Nation
+http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
+#EXTINF:-1,Free Speech TV
+https://edge.free-speech-tv-live.top.comcast.net/out/u/fstv.m3u8
+#EXTINF:-1,The Blaze
+https://theblaze.global.ssl.fastly.net/live/theblaze/master.m3u8
+#EXTINF:-1,InfoWars
+http://infowarslive-lh.akamaihd.net/i/infowarslivestream_1@353459/master.m3u8
+#EXTINF:-1,RT America
+https://secure-streams.akamaized.net/rt-usa/index.m3u8
+#EXTINF:-1,MLB Network
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
+#EXTINF:-1,MLB Network*
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLB_Network_Linear_Stream_Tuesday_20170704_1499230681478/2400K/2400_slide.m3u8
+#EXTINF:-1,NBA TV
+http://216.31.255.235/hlsl/5/NBATV/NBATV.m3u8
+#EXTINF:-1,NBC Golf [NoRoku]
+http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
+#EXTINF:-1,NFL Now
+https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_1200k.m3u8
+#EXTINF:-1,Cartoon Network
+http://wowza2.mysoltv.com:1992/UK_ENG_CARTOON_NETWORK_gaaa/tracks-v1a1/index.m3u8
+#EXTINF:-1,Comedy Central
+http://216.31.255.235/hlsl/1/Ze5abrUben5dCOMEDY/Ze5abrUben5dCOMEDY.m3u8
+#EXTINF:-1,FreeForm [NoKodi]
+https://videoserver2.org/live/mHwxt8kU2oOl862qOFE58w/1507031391/654bc354612eeefee71cd611b175730c.m3u8
+#EXTINF:-1,Investigation Discovery
+http://216.31.255.235/hlsl/8/fEfreTraX6guINVDSC/fEfreTraX6guINVDSC.m3u8
+#EXTINF:-1,NatGeo Wild [Off]
+http://216.31.255.235/hlsl/1/NATWLDxuvujAk7Cr4t/NATWLDxuvujAk7Cr4t.m3u8
+#EXTINF:-1,Science Channel
+http://216.31.255.235/hlsl/11/SCIENCEtefEth2SuQuh/SCIENCEtefEth2SuQuh.m3u8
+#EXTINF:-1,truTV
+http://216.31.255.235/hlsl/7/TRUTVthutRezU4Ted/TRUTVthutRezU4Ted.m3u8
+#EXTINF:-1,Velocity
+http://216.31.255.235/hlsl/6/fe6puFAsucreVELOCITY/fe6puFAsucreVELOCITY.m3u8
+#EXTINF:-1,Animal Planet
+http://iphone-streaming.ustream.tv/uhls/12762028/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,Biz TV
+http://imavex2.mmdlive.lldns.net/imavex2/0b2f65006e0743bd9701cce1339a3b9f/playlist.m3u8
+#EXTINF:-1,California Music Channel
+http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/CCURstream0.m3u8
+#EXTINF:-1,Channel 7 [NoRoku]
+http://radio.7chan.org:8000/CH7
+#EXTINF:-1,Classic Arts Showcase
+http://cds.d3r6a3c9.hwcdn.net/live/smil:CAS.smil/playlist.m3u8
+#EXTINF:-1,The Country Network
+https://dcunilive2-lh.akamaihd.net/i/dclive_1@390829/master.m3u8
+#EXTINF:-1,D23 TV
+http://h5j3hce9.blue.onyxservers.com/hls-live/livepkgr/_definst_/liveevent/d23tv.m3u8
+#EXTINF:-1,Ditty TV
+http://desktop.dittytv.com/smil:DittyTV.smil/chunklist.m3u8
+#EXTINF:-1,Evine [Off]
+http://shophqlivehls-i.akamaihd.net/hls/live/217244/onair/master.m3u8
+#EXTINF:-1,Home Shopping Network
+http://hsn.mpl.miisolutions.net/hsn-live01/_definst_/smil:HSN1_ipad.smil/playlist.m3u8
+#EXTINF:-1,Hunt Channel
+http://studio.huntchannel.tv:8081/live/playout/playlist.m3u8
+#EXTINF:-1,MeTV
+http://video.metv.com/metv/index.m3u8
+#EXTINF:-1,NASA TV Public
+http://nasa-i.akamaihd.net/hls/live/253565/NASA-NTV1-Public/master_500.m3u8
+#EXTINF:-1,NASA TV Media
+https://nasa-i.akamaihd.net/hls/live/253566/NASA-NTV2-Media/master.m3u8
+#EXTINF:-1,QVC
+http://qvclvp2.mmdlive.lldns.net/qvclvp2/9aa645c89c5447a8937537011e8f8d0d/manifest.m3u8
+#EXTINF:-1,Red Bull TV
+http://rbtvdiglinear-i.akamaihd.net/hls/live/241719/ATfallback/master.m3u8
+#EXTINF:-1,Rev'n
+http://dcunilive16-lh.akamaihd.net/i/dclive_1@305811/master.m3u8
+#EXTINF:-1,SupTV
+http://91.134.238.137/live/alpha/index.m3u8
+#EXTINF:-1,TBD
+http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8?tc=1&exp=1614631202&rn=614441536&ct=c&cid=1831163f97674328ad9f4b4814ed39c5&ad=comet&ad.adUnit=%2FTBD%2FLivestream_midroll&ad._debug=TBDNET_ssai_livestream_midroll&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=5d194a4e4c5a4d59023d6a39a2ba5ba82dcd817b615e9f82115c41d9b26ffd0a
+#EXTINF:-1,Tuff TV
+http://cdn-live-egress.campfyre.tv/rightbrainmedia-live-604/mp4:Tufftv_all/rightbrainmedia-live-604/Tufftv2/playlist.m3u8
+#EXTINF:-1,TWiT.TV
+http://hls.twit.tv/flosoft/mp4:twitStream_540/playlist.m3u8
+#EXTINF:-1,Wilderness Channel
+http://pkg2.frontlayer.net/pseudolive/fl821095/index.m3u8
+#EXTINF:-1,Yes TV
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/YES/tu1_1.m3u8
+#EXTINF:-1,iHeart 80s
+http://c3.prod.playlists.ihrhls.com/5060/playlist.m3u8
+#EXTINF:-1,Lite FM 106.7
+http://c11.prod.playlists.ihrhls.com/1477/playlist.m3u8
+#EXTINF:-1,Nick Radio
+http://c9.prod.playlists.ihrhls.com/6395/playlist.m3u8
+#EXTINF:-1,Z100 New York
+http://c5.prod.playlists.ihrhls.com/1469/playlist.m3u8
+#EXTINF:-1,360 North
+http://wowzaprod3-i.akamaihd.net/hls/live/252236/2147483647_360north_247/playlist.m3u8
+#EXTINF:-1,ASD TV
+http://64.22.99.223/AnchorageSchoolsAKLIVE/_definst_/AnchorageSchoolsAKLIVE.stream/chunklist.m3u8
+#EXTINF:-1,Atlanta Channel
+http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/chucklist.m3u8
+#EXTINF:-1,ATXN
+http://oflash.dfw.swagit.com/livecc02/austintx/smil:atx-16x9-1-b/playlist.m3u8
+#EXTINF:-1,ATXN 2
+http://oflash.dfw.swagit.com/livecc02/austintx/smil:atx-16x9-1-a/playlist.m3u8
+#EXTINF:-1,Beach TV - 30A
+http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8
+#EXTINF:-1,Beach TV - Panama City
+http://media4.tripsmarter.com:1935/LiveTV/BTVHD/chucklist.m3u8
+#EXTINF:-1,Beach TV - Pawleys Island
+http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8
+#EXTINF:-1,Bowie TV
+http://granicusliveus3-a.akamaihd.net/cityofbowie/G0466_001/playlist.m3u8
+#EXTINF:-1,Buffalo TV
+http://na-all15.secdn.net/pegstream3-live/play/c3e1e4c4-7f11-4a54-8b8f-c590a95b4ade/playlist.m3u8
+#EXTINF:-1,Capital City Connection
+http://na-us-se13.secdn.net/pegstream3-live/play/5f0d9ca5-4e85-4c01-a426-9ec8d44c2c9c/playlist.m3u8
+#EXTINF:-1,Daytona Beach TV
+http://oflash.dfw.swagit.com/live/daytonabeachfl/smil:std-4x3-1-a/chucklist.m3u8
+#EXTINF:-1,District of Columbia Network
+http://video.oct.dc.gov/out/u/DCN.m3u8
+#EXTINF:-1,District Knowledge Network
+http://video.oct.dc.gov/out/u/96_4.m3u8
+#EXTINF:-1,Escambia TV
+http://58bfeaf58405a.streamlock.net/live/escambiacountyfl/smil:std-4x3-1-a/playlist.m3u8
+#EXTINF:-1,The Florida Channel
+http://webcasting.thefloridachannel.org/live/tvweb1/playlist.m3u8
+#EXTINF:-1,Garland TV
+http://oflash-alt.dfw.swagit.com/live/garlandtx/smil:hd-16x9-1-a/chunklist.m3u8
+#EXTINF:-1,Greenbelt TV
+http://granicusliveus4-a.akamaihd.net/greenbeltmd/G0610_001/chunklist.m3u8
+#EXTINF:-1,House of Representatives
+http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:HouseChannel_all/chucklist.m3u8
+#EXTINF:-1,KBVR TV
+http://klive-a.akamaihd.net/dc-0/live/hls/p/391241/e/0_bthpnu1j/sd/10000/t/YwqLo1YivB_aumq-LxAuWg/master.m3u8
+#EXTINF:-1,Key TV
+http://media4.tripsmarter.com:1935/LiveTV/KTVHD/chunklist_w363623166.m3u8
+#EXTINF:-1,Kool TV
+http://173.199.158.79:1935/roku/myStream/playlist.m3u8
+#EXTINF:-1,Laurel TV
+https://crimson.ebmcdn.net/laurel/smil:laurel.smil/chunklist.m3u8
+#EXTINF:-1,Miami TV
+http://oflash.dfw.swagit.com/live/miamibeachfl/smil:std-16x9-1-a/chunklist_w1459206316_b878000.m3u8
+#EXTINF:-1,Orange TV
+http://otv3.ocfl.net:1936/OrangeTV/smil:OrangeTV.smil/chunklist_w1007974604_b894100_sleng.m3u8
+#EXTINF:-1,PGCPS
+http://reflect.live.pgcps.cablecast.tv/live/WIFI-696k-360p/WIFI-696k-360p.m3u8
+#EXTINF:-1,RyeTV
+http://oflash.dfw.swagit.com/live/ryeny/smil:std-4x3-1-a/playlist.m3u8
+#EXTINF:-1,SCCtv
+http://media3.scctv.net/live/scctv_300/playlist.m3u8
+#EXTINF:-1,Seattle Channel
+https://wowzaprod121-i.akamaihd.net/hls/live/266526/d2ea1f60/playlist.m3u8
+#EXTINF:-1,Seminole TV
+http://video.seminolecountyfl.gov:1935/live/SGTV/chunklist.m3u8
+#EXTINF:-1,Southeastern Channel
+http://147.174.13.196/live/WIFI-1296k-540p/WIFI-1296k-540p.m3u8
+#EXTINF:-1,Temple TV
+http://streaming.temple.edu/tutvlive/_definst_/mp4:play/chunklist.m3u8
+#EXTINF:-1,TSTV
+http://tstv-stream.tsm.utexas.edu/hls/livestream_hi/index.m3u8
+#EXTINF:-1,TVW
+http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:TVWAIR_all/chucklist.m3u8
+#EXTINF:-1,TVW-2
+http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:TVW2_all/master.m3u8
+#EXTINF:-1,UCTV
+http://ucsdtv-wowza.ucsd.edu:1935/live/live_800/playlist.m3u8
+#EXTINF:-1,UGA TV
+http://mmuga-lh.akamaihd.net/i/ctlcable_1@349875/master.m3u8
+#EXTINF:-1,White Plains TV
+http://oflash.dfw.swagit.com/live/whiteplainsny/live-b-2/chucklist.m3u8
+#EXTINF:-1,WHOH TV
+http://oflash.dfw.swagit.com/live/hastingsonhudsonny/smil:std-4x3-1-a/playlist.m3u8
+#EXTINF:-1,A&E TV HD US
+http://193.70.23.227:1096/live/QGWn17YtT6/6UL0wKGwMu/13973.ts
+#EXTINF:-1,ABC FHD US
+http://193.70.23.227:1096/live/QGWn17YtT6/6UL0wKGwMu/13972.ts
+#EXTINF:-1,ABC News HD US
+http://193.70.23.227:1096/live/QGWn17YtT6/6UL0wKGwMu/13970.ts
+#EXTINF:-1,AFN Spectrum HD US
+http://193.70.23.227:1096/live/QGWn17YtT6/6UL0wKGwMu/13969.ts
+#EXTINF:-1,AFN Sport 1 US
+http://193.70.23.227:1096/live/QGWn17YtT6/6UL0wKGwMu/13968.ts
+#EXTINF:-1,AFN Sport 2 US
+http://193.70.23.227:1096/live/QGWn17YtT6/6UL0wKGwMu/13967.ts
+#EXTINF:-1,Amazing Discoveries HD US
+http://193.70.23.227:1096/live/QGWn17YtT6/6UL0wKGwMu/13964.ts
+#EXTINF:-1,AMC HD US
+http://193.70.23.227:1096/live/QGWn17YtT6/6UL0wKGwMu/13966.ts
+#EXTINF:-1,AMC US
+http://193.70.23.227:1096/live/QGWn17YtT6/6UL0wKGwMu/13965.ts
+#EXTINF:-1,Animal Planet US
+http://193.70.23.227:1096/live/QGWn17YtT6/6UL0wKGwMu/13963.ts
+#EXTINF:-1,beINSports HD US
+http://193.70.23.227:1096/live/QGWn17YtT6/6UL0wKGwMu/13808.ts
+#EXTINF:-1,Bloomberg Europe US
+http://193.70.23.227:1096/live/QGWn17YtT6/6UL0wKGwMu/13960.ts
+#EXTINF:-1,Bloomberg TV HD US
+http://193.70.23.227:1096/live/QGWn17YtT6/6UL0wKGwMu/13959.ts
+#EXTINF:-1,Boomerang US
+http://193.70.23.227:1096/live/QGWn17YtT6/6UL0wKGwMu/13958.ts
+#EXTINF:-1,Bravo HD US
+http://193.70.23.227:1096/live/QGWn17YtT6/6UL0wKGwMu/13957.ts
+#EXTINF:-1,Bravo US
+http://193.70.23.227:1096/live/QGWn17YtT6/6UL0wKGwMu/13956.ts
+#EXTINF:-1,BYU TV US
+http://193.70.23.227:1096/live/QGWn17YtT6/6UL0wKGwMu/13961.ts
+#EXTINF:-1,C-Span 1 US
+http://193.70.23.227:1096/live/QGWn17YtT6/6UL0wKGwMu/13955.ts
+#EXTINF:-1,C-Span 2 US
+http://193.70.23.227:1096/live/QGWn17YtT6/6UL0wKGwMu/13954.ts
+#EXTINF:-1,C-Span 3 US
+http://193.70.23.227:1096/live/QGWn17YtT6/6UL0wKGwMu/13953.ts
+#EXTINF:-1,Cable News Network HD US
+http://193.70.23.227:1096/live/QGWn17YtT6/6UL0wKGwMu/13945.ts
+#EXTINF:-1,Cartoon Network US
+http://193.70.23.227:1096/live/QGWn17YtT6/6UL0wKGwMu/13944.ts
+#EXTINF:-1,CBS US
+http://193.70.23.227:1096/live/QGWn17YtT6/6UL0wKGwMu/13952.ts
+#EXTINF:-1,Chiller HD US
+http://193.70.23.227:1096/live/QGWn17YtT6/6UL0wKGwMu/13943.ts
+#EXTINF:-1,CineMax 5 StarMax US
+http://193.70.23.227:1096/live/QGWn17YtT6/6UL0wKGwMu/13942.ts
+#EXTINF:-1,CineMax Action HD US
+http://193.70.23.227:1096/live/QGWn17YtT6/6UL0wKGwMu/13941.ts
+#EXTINF:-1,Cinemax Action US
+http://193.70.23.227:1096/live/QGWn17YtT6/6UL0wKGwMu/13937.ts
+#EXTINF:-1,Cinemax More HD US
+http://193.70.23.227:1096/live/QGWn17YtT6/6UL0wKGwMu/13936.ts
+#EXTINF:-1,CineMax MoreMax US
+http://193.70.23.227:1096/live/QGWn17YtT6/6UL0wKGwMu/13938.ts
+#EXTINF:-1,CNBC US
+http://193.70.23.227:1096/live/QGWn17YtT6/6UL0wKGwMu/13950.ts
+#EXTINF:-1,CNN HD US
+http://193.70.23.227:1096/live/QGWn17YtT6/6UL0wKGwMu/13949.ts
+#EXTINF:-1,CW HD US
+http://193.70.23.227:1096/live/QGWn17YtT6/6UL0wKGwMu/13948.ts
+#EXTINF:-1,CW US
+http://193.70.23.227:1096/live/QGWn17YtT6/6UL0wKGwMu/13947.ts
+#EXTINF:-1,CW11 US
+http://193.70.23.227:1096/live/QGWn17YtT6/6UL0wKGwMu/13946.ts
+#EXTINF:-1,Discovery Channel CA FHD US
+http://193.70.23.227:1096/live/QGWn17YtT6/6UL0wKGwMu/13930.ts
+#EXTINF:-1,Discovery Channel HD US
+http://193.70.23.227:1096/live/QGWn17YtT6/6UL0wKGwMu/13929.ts
+#EXTINF:-1,Discovery HD Showcase US
+http://193.70.23.227:1096/live/QGWn17YtT6/6UL0wKGwMu/13928.ts
+#EXTINF:-1,Discovery HD US
+http://193.70.23.227:1096/live/QGWn17YtT6/6UL0wKGwMu/13927.ts
+#EXTINF:-1,Discovery Science HD US
+http://193.70.23.227:1096/live/QGWn17YtT6/6UL0wKGwMu/13926.ts
+#EXTINF:-1,Discovery Velocity US
+http://193.70.23.227:1096/live/QGWn17YtT6/6UL0wKGwMu/13925.ts
+#EXTINF:-1,Disney Channel HD US
+http://193.70.23.227:1096/live/QGWn17YtT6/6UL0wKGwMu/13924.ts
+#EXTINF:-1,Disney XD HD US
+http://193.70.23.227:1096/live/QGWn17YtT6/6UL0wKGwMu/13923.ts
+#EXTINF:-1,DIY Network HD US
+http://193.70.23.227:1096/live/QGWn17YtT6/6UL0wKGwMu/13933.ts
+#EXTINF:-1,DW US
+http://193.70.23.227:1096/live/QGWn17YtT6/6UL0wKGwMu/13931.ts
+#EXTINF:-1,E! Entertainment HD US
+http://193.70.23.227:1096/live/QGWn17YtT6/6UL0wKGwMu/13922.ts
+#EXTINF:-1,El Rey Network HD US
+http://193.70.23.227:1096/live/QGWn17YtT6/6UL0wKGwMu/13916.ts
+#EXTINF:-1,ESPN 1 HD US
+http://193.70.23.227:1096/live/QGWn17YtT6/6UL0wKGwMu/13921.ts
+#EXTINF:-1,ESPN 1 US
+http://193.70.23.227:1096/live/QGWn17YtT6/6UL0wKGwMu/13920.ts
+#EXTINF:-1,ESPN 2 FHD US
+http://193.70.23.227:1096/live/QGWn17YtT6/6UL0wKGwMu/13919.ts
+#EXTINF:-1,Fashion One HD US
+http://193.70.23.227:1096/live/QGWn17YtT6/6UL0wKGwMu/13912.ts
+#EXTINF:-1,Fight HD US
+http://193.70.23.227:1096/live/QGWn17YtT6/6UL0wKGwMu/13911.ts
+#EXTINF:-1,Fight Sport HD US
+http://193.70.23.227:1096/live/QGWn17YtT6/6UL0wKGwMu/13910.ts
+#EXTINF:-1,Fine Living US
+http://193.70.23.227:1096/live/QGWn17YtT6/6UL0wKGwMu/13909.ts
+#EXTINF:-1,Food Network HD US
+http://193.70.23.227:1096/live/QGWn17YtT6/6UL0wKGwMu/13908.ts
+#EXTINF:-1,FOX 43 US
+http://193.70.23.227:1096/live/QGWn17YtT6/6UL0wKGwMu/13915.ts
+#EXTINF:-1,Fox HD US
+http://193.70.23.227:1096/live/QGWn17YtT6/6UL0wKGwMu/13906.ts
+#EXTINF:-1,Fox News HD US
+http://193.70.23.227:1096/live/QGWn17YtT6/6UL0wKGwMu/13905.ts
+#EXTINF:-1,Fox Soccer Plus HD US
+http://193.70.23.227:1096/live/QGWn17YtT6/6UL0wKGwMu/13904.ts
+#EXTINF:-1,Fox Soccer Plus US
+http://193.70.23.227:1096/live/QGWn17YtT6/6UL0wKGwMu/13903.ts
+#EXTINF:-1,Fox Sports 1 US
+http://193.70.23.227:1096/live/QGWn17YtT6/6UL0wKGwMu/13901.ts
+#EXTINF:-1,Fox Sports 2 FHD US
+http://193.70.23.227:1096/live/QGWn17YtT6/6UL0wKGwMu/13900.ts
+#EXTINF:-1,Fox Sports 2 HD US
+http://193.70.23.227:1096/live/QGWn17YtT6/6UL0wKGwMu/13899.ts
+#EXTINF:-1,Fox Sports 506 HD US
+http://193.70.23.227:1096/live/QGWn17YtT6/6UL0wKGwMu/13898.ts
+#EXTINF:-1,Fox Sports College Central HD US
+http://193.70.23.227:1096/live/QGWn17YtT6/6UL0wKGwMu/13897.ts
+#EXTINF:-1,Fox Sports HD US
+http://193.70.23.227:1096/live/QGWn17YtT6/6UL0wKGwMu/13896.ts
+#EXTINF:-1,Fox Sports North HD US
+http://193.70.23.227:1096/live/QGWn17YtT6/6UL0wKGwMu/13895.ts
+#EXTINF:-1,Free Form HD US
+http://193.70.23.227:1096/live/QGWn17YtT6/6UL0wKGwMu/13894.ts
+#EXTINF:-1,FreeForm HD US
+http://193.70.23.227:1096/live/QGWn17YtT6/6UL0wKGwMu/13893.ts
+#EXTINF:-1,Fuel HD US
+http://193.70.23.227:1096/live/QGWn17YtT6/6UL0wKGwMu/13892.ts
+#EXTINF:-1,FX HD US
+http://193.70.23.227:1096/live/QGWn17YtT6/6UL0wKGwMu/13914.ts
+#EXTINF:-1,FX US
+http://193.70.23.227:1096/live/QGWn17YtT6/6UL0wKGwMu/13913.ts
+#EXTINF:-1,GR | ALPHA TV
+http://193.70.23.227:1096/live/QGWn17YtT6/6UL0wKGwMu/12942.ts
+#EXTINF:-1,GR | Baby tv
+http://193.70.23.227:1096/live/QGWn17YtT6/6UL0wKGwMu/12940.ts
+#EXTINF:-1,GR | Disney Junior
+http://193.70.23.227:1096/live/QGWn17YtT6/6UL0wKGwMu/12941.ts
+#EXTINF:-1,GR | IDX
+http://193.70.23.227:1096/live/QGWn17YtT6/6UL0wKGwMu/12939.ts
+#EXTINF:-1,GSN HD US
+http://193.70.23.227:1096/live/QGWn17YtT6/6UL0wKGwMu/13891.ts
+#EXTINF:-1,H2 US
+http://193.70.23.227:1096/live/QGWn17YtT6/6UL0wKGwMu/13890.ts
+#EXTINF:-1,Hallmark Channel HD US
+http://193.70.23.227:1096/live/QGWn17YtT6/6UL0wKGwMu/13878.ts
+#EXTINF:-1,Hallmark US
+http://193.70.23.227:1096/live/QGWn17YtT6/6UL0wKGwMu/13877.ts
+#EXTINF:-1,HBO Comedy HD US
+http://193.70.23.227:1096/live/QGWn17YtT6/6UL0wKGwMu/13889.ts
+#EXTINF:-1,HBO East US
+http://193.70.23.227:1096/live/QGWn17YtT6/6UL0wKGwMu/13888.ts
+#EXTINF:-1,HBO Family HD US
+http://193.70.23.227:1096/live/QGWn17YtT6/6UL0wKGwMu/13887.ts
+#EXTINF:-1,HBO HD US
+http://193.70.23.227:1096/live/QGWn17YtT6/6UL0wKGwMu/13886.ts
+#EXTINF:-1,HBO Signature HD US
+http://193.70.23.227:1096/live/QGWn17YtT6/6UL0wKGwMu/13885.ts
+#EXTINF:-1,HBO Signature US
+http://193.70.23.227:1096/live/QGWn17YtT6/6UL0wKGwMu/13884.ts
+#EXTINF:-1,HBO US
+http://193.70.23.227:1096/live/QGWn17YtT6/6UL0wKGwMu/13883.ts
+#EXTINF:-1,HBO Zone US
+http://193.70.23.227:1096/live/QGWn17YtT6/6UL0wKGwMu/13882.ts
+#EXTINF:-1,HGTV HD US
+http://193.70.23.227:1096/live/QGWn17YtT6/6UL0wKGwMu/13881.ts
+#EXTINF:-1,HGTV US
+http://193.70.23.227:1096/live/QGWn17YtT6/6UL0wKGwMu/13880.ts
+#EXTINF:-1,HIFI US
+http://193.70.23.227:1096/live/QGWn17YtT6/6UL0wKGwMu/13879.ts
+#EXTINF:-1,History HD US
+http://193.70.23.227:1096/live/QGWn17YtT6/6UL0wKGwMu/13876.ts
+#EXTINF:-1,History US
+http://193.70.23.227:1096/live/QGWn17YtT6/6UL0wKGwMu/13875.ts
+#EXTINF:-1,IFC HD US
+http://193.70.23.227:1096/live/QGWn17YtT6/6UL0wKGwMu/13874.ts
+#EXTINF:-1,Investigation Discovery HD US
+http://193.70.23.227:1096/live/QGWn17YtT6/6UL0wKGwMu/13873.ts
+#EXTINF:-1,MK: Alfa TV
+http://193.70.23.227:1096/live/QGWn17YtT6/6UL0wKGwMu/12090.ts
+#EXTINF:-1,MLB HD US
+http://193.70.23.227:1096/live/QGWn17YtT6/6UL0wKGwMu/13871.ts
+#EXTINF:-1,MLB Network HD US
+http://193.70.23.227:1096/live/QGWn17YtT6/6UL0wKGwMu/13870.ts
+#EXTINF:-1,MLB Network US
+http://193.70.23.227:1096/live/QGWn17YtT6/6UL0wKGwMu/13869.ts
+#EXTINF:-1,MSNBC HD US
+http://193.70.23.227:1096/live/QGWn17YtT6/6UL0wKGwMu/13868.ts
+#EXTINF:-1,MTV Base HD US
+http://193.70.23.227:1096/live/QGWn17YtT6/6UL0wKGwMu/13867.ts
+#EXTINF:-1,MTV Rocks US
+http://193.70.23.227:1096/live/QGWn17YtT6/6UL0wKGwMu/13866.ts
+#EXTINF:-1,Nat Geo Wild HD US
+http://193.70.23.227:1096/live/QGWn17YtT6/6UL0wKGwMu/13850.ts
+#EXTINF:-1,Nat Geographic HD US
+http://193.70.23.227:1096/live/QGWn17YtT6/6UL0wKGwMu/13849.ts
+#EXTINF:-1,National Geographic US
+http://193.70.23.227:1096/live/QGWn17YtT6/6UL0wKGwMu/13848.ts
+#EXTINF:-1,NBA HD US
+http://193.70.23.227:1096/live/QGWn17YtT6/6UL0wKGwMu/13865.ts
+#EXTINF:-1,USA | A&E HD
+http://163.172.100.44:1963/live/mehmet1988/mehmet1988/25228.ts
+#EXTINF:-1,USA | ABC HD
+http://163.172.100.44:1963/live/mehmet1988/mehmet1988/25227.ts
+#EXTINF:-1,USA | AMC HD
+http://163.172.100.44:1963/live/mehmet1988/mehmet1988/25218.ts
+#EXTINF:-1,USA | Animal Planet HD
+http://163.172.100.44:1963/live/mehmet1988/mehmet1988/25217.ts
+#EXTINF:-1,USA | BRAVO
+http://163.172.100.44:1963/live/mehmet1988/mehmet1988/25216.ts
+#EXTINF:-1,USA | BRAVO HD
+http://163.172.100.44:1963/live/mehmet1988/mehmet1988/25215.ts
+#EXTINF:-1,USA | CBS HD
+http://163.172.100.44:1963/live/mehmet1988/mehmet1988/25214.ts
+#EXTINF:-1,USA | CNN HD
+http://163.172.100.44:1963/live/mehmet1988/mehmet1988/25209.ts
+#EXTINF:-1,USA | Comedy Central
+http://163.172.100.44:1963/live/mehmet1988/mehmet1988/25208.ts
+#EXTINF:-1,USA | CPAC
+http://163.172.100.44:1963/live/mehmet1988/mehmet1988/25207.ts
+#EXTINF:-1,USA | CW HD
+http://163.172.100.44:1963/live/mehmet1988/mehmet1988/25206.ts
+#EXTINF:-1,USA | Discovery HD
+http://163.172.100.44:1963/live/mehmet1988/mehmet1988/25205.ts
+#EXTINF:-1,USA | DISCOVERY SCIENCE
+http://163.172.100.44:1963/live/mehmet1988/mehmet1988/25204.ts
+#EXTINF:-1,USA | DIY NETWORK HD
+http://163.172.100.44:1963/live/mehmet1988/mehmet1988/25203.ts
+#EXTINF:-1,USA | E!
+http://163.172.100.44:1963/live/mehmet1988/mehmet1988/25202.ts
+#EXTINF:-1,USA | ESPN
+http://163.172.100.44:1963/live/mehmet1988/mehmet1988/25201.ts
+#EXTINF:-1,USA | ESPN 2
+http://163.172.100.44:1963/live/mehmet1988/mehmet1988/25200.ts
+#EXTINF:-1,USA | Fight Network
+http://163.172.100.44:1963/live/mehmet1988/mehmet1988/25199.ts
+#EXTINF:-1,USA | Food Network HD
+http://163.172.100.44:1963/live/mehmet1988/mehmet1988/25198.ts
+#EXTINF:-1,USA | Fox
+http://163.172.100.44:1963/live/mehmet1988/mehmet1988/25197.ts
+#EXTINF:-1,USA | FOX 5 HD
+http://163.172.100.44:1963/live/mehmet1988/mehmet1988/25196.ts
+#EXTINF:-1,USA | Fox News HD
+http://163.172.100.44:1963/live/mehmet1988/mehmet1988/25195.ts
+#EXTINF:-1,USA | Fox Sports 1 HD
+http://163.172.100.44:1963/live/mehmet1988/mehmet1988/25194.ts
+#EXTINF:-1,USA | Fox Sports 2 HD
+http://163.172.100.44:1963/live/mehmet1988/mehmet1988/25193.ts
+#EXTINF:-1,USA | FX HD
+http://163.172.100.44:1963/live/mehmet1988/mehmet1988/25192.ts
+#EXTINF:-1,USA | FXX
+http://163.172.100.44:1963/live/mehmet1988/mehmet1988/25191.ts
+#EXTINF:-1,USA | Golf HD
+http://163.172.100.44:1963/live/mehmet1988/mehmet1988/25190.ts
+#EXTINF:-1,USA | H2
+http://163.172.100.44:1963/live/mehmet1988/mehmet1988/25189.ts
+#EXTINF:-1,USA | HallMark HD
+http://163.172.100.44:1963/live/mehmet1988/mehmet1988/25188.ts
+#EXTINF:-1,USA | HBO
+http://163.172.100.44:1963/live/mehmet1988/mehmet1988/25187.ts
+#EXTINF:-1,USA | HBO Comedy (nbc at 3pm)
+http://163.172.100.44:1963/live/mehmet1988/mehmet1988/25186.ts
+#EXTINF:-1,USA | HBO Family
+http://163.172.100.44:1963/live/mehmet1988/mehmet1988/25185.ts
+#EXTINF:-1,USA | HBO HD 1
+http://163.172.100.44:1963/live/mehmet1988/mehmet1988/25184.ts
+#EXTINF:-1,USA | HBO HD 2
+http://163.172.100.44:1963/live/mehmet1988/mehmet1988/25183.ts
+#EXTINF:-1,USA | HBO Signature
+http://163.172.100.44:1963/live/mehmet1988/mehmet1988/25182.ts
+#EXTINF:-1,USA | HBO Zone
+http://163.172.100.44:1963/live/mehmet1988/mehmet1988/25181.ts
+#EXTINF:-1,USA | HGTV
+http://163.172.100.44:1963/live/mehmet1988/mehmet1988/25180.ts
+#EXTINF:-1,USA | HISTORY
+http://163.172.100.44:1963/live/mehmet1988/mehmet1988/25179.ts
+#EXTINF:-1,USA | Investigation Discovery HD
+http://163.172.100.44:1963/live/mehmet1988/mehmet1988/25178.ts
+#EXTINF:-1,USA | LIFETIME
+http://163.172.100.44:1963/live/mehmet1988/mehmet1988/25177.ts
+#EXTINF:-1,USA | NASA TV HD
+http://163.172.100.44:1963/live/mehmet1988/mehmet1988/25176.ts
+#EXTINF:-1,USA | National Geographic
+http://163.172.100.44:1963/live/mehmet1988/mehmet1988/25175.ts
+#EXTINF:-1,USA | NBA HD
+http://163.172.100.44:1963/live/mehmet1988/mehmet1988/25174.ts
+#EXTINF:-1,USA | NBC
+http://163.172.100.44:1963/live/mehmet1988/mehmet1988/25173.ts
+#EXTINF:-1,USA | NBC GOLF
+http://163.172.100.44:1963/live/mehmet1988/mehmet1988/25172.ts
+#EXTINF:-1,USA | NBC Sports Network HD
+http://163.172.100.44:1963/live/mehmet1988/mehmet1988/25171.ts
+#EXTINF:-1,USA | NFL NETWORK
+http://163.172.100.44:1963/live/mehmet1988/mehmet1988/25170.ts
+#EXTINF:-1,USA | NHL Network (nbc goalrush at 3pm)
+http://163.172.100.44:1963/live/mehmet1988/mehmet1988/25169.ts
+#EXTINF:-1,USA | PAC 12 WASHINGTON HD
+http://163.172.100.44:1963/live/mehmet1988/mehmet1988/25168.ts
+#EXTINF:-1,USA | PBS HD
+http://163.172.100.44:1963/live/mehmet1988/mehmet1988/25167.ts
+#EXTINF:-1,USA | SYFY HD
+http://163.172.100.44:1963/live/mehmet1988/mehmet1988/25157.ts
+#EXTINF:-1,USA | TBS
+http://163.172.100.44:1963/live/mehmet1988/mehmet1988/25156.ts
+#EXTINF:-1,USA | Tennis Channel HD
+http://163.172.100.44:1963/live/mehmet1988/mehmet1988/25155.ts
+#EXTINF:-1,USA | TLC HD
+http://163.172.100.44:1963/live/mehmet1988/mehmet1988/25154.ts
+#EXTINF:-1,USA | TNT HD
+http://163.172.100.44:1963/live/mehmet1988/mehmet1988/25153.ts
+#EXTINF:-1,USA | TRU TV HD
+http://163.172.100.44:1963/live/mehmet1988/mehmet1988/25152.ts
+#EXTINF:-1,USA | UNIVERSAL HD
+http://163.172.100.44:1963/live/mehmet1988/mehmet1988/25151.ts
+#EXTINF:-1,USA | USA NETWORK
+http://163.172.100.44:1963/live/mehmet1988/mehmet1988/25150.ts
+#EXTINF:-1,USA | WWE Network HD
+http://163.172.100.44:1963/live/mehmet1988/mehmet1988/25149.ts
+#EXTINF:-1,~ Canada TV ~
+#EXTINF:-1,Assemblee Nationale du Quebec
+http://diffusionm4.assnat.qc.ca/canal9/250.sdp/playlist.m3u8
+#EXTINF:-1,Canal Savoir
+http://stream.canalsavoir.tv/livestream/stream.m3u8
+#EXTINF:-1,CBC Radio One
+http://liveradio.cbc.ca/i/CBCR1_OTT@348188/master.m3u8
+#EXTINF:-1,CBC Radio Two
+http://liveradiocanada.cbc.ca/i/CBCR2_TOR@382863/master.m3u8
+#EXTINF:-1,CHCH
+http://52.86.189.59:1935/live/news/chunklist_w479079800.m3u8
+#EXTINF:-1,CPAC622
+http://163.172.100.44:1963/live/mehmet1988/mehmet1988/25167.ts
+623
+#EXTINF:-1,USA | SYFY HD
+624
+http://163.172.100.44:1963/live/mehmet1988/mehmet1988/25157.ts
+625
+#EXTINF:-1,USA | TBS
+626
+http://163.172.100.44:1963/live/mehmet1988/mehmet1988/25156.ts
+627
+#EXTINF:-1,USA | Tennis Channel HD
+628
+http://163.172.100.44:1963/live/mehmet1988/mehmet1988/25155.ts
+629
+#EXTINF:-1,USA | TLC HD
+630
+http://163.172.100.44:1963/live/mehmet1988/mehmet1988/25154.ts
+631
+#EXTINF:-1,USA | TNT HD
+632
+http://163.172.100.44:1963/live/mehmet1988/mehmet1988/25153.ts
+633
+#EXTINF:-1,USA | TRU TV HD
+634
+http://163.172.100.44:1963/live/mehmet1988/mehmet1988/25152.ts
+635
+#EXTINF:-1,USA | UNIVERSAL HD
+636
+http://163.172.100.44:1963/live/mehmet1988/mehmet1988/25151.ts
+637
+#EXTINF:-1,USA | USA NETWORK
+638
+http://163.172.100.44:1963/live/mehmet1988/mehmet1988/25150.ts
+639
+#EXTINF:-1,USA | WWE Network HD
+640
+http://163.172.100.44:1963/live/mehmet1988/mehmet1988/25149.ts
+641
+#EXTINF:-1,~ Canada TV ~
+642
+#EXTINF:-1,Assemblee Nationale du Quebec
+643
+http://diffusionm4.assnat.qc.ca/canal9/250.sdp/playlist.m3u8
+644
+#EXTINF:-1,Canal Savoir
+645
+http://stream.canalsavoir.tv/livestream/stream.m3u8
+646
+#EXTINF:-1,CBC Radio One
+647
+http://bcoveliveios-i.akamaihd.net/hls/live/248519/1242843915001_1/master.m3u8
+#EXTINF:-1,CTV News Live 1
+http://ams-lp10.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News18.m3u8
+#EXTINF:-1,CTV News Live 2
+http://ams-lp7.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News28.m3u8
+#EXTINF:-1,CTV News Live 3
+http://ams-lp6.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News38.m3u8
+#EXTINF:-1,CTV News Live 4
+http://ams-lp5.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News48.m3u8
+#EXTINF:-1,The Shopping Channel
+http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
+#EXTINF:-1,The Weather Network
+http://weather-lh.akamaihd.net:80/i/twc_1@92006/master.m3u8
+#EXTINF:-1,CA: Omni 1 CA
+http://104.27.131.151:8080/live/STOCK/STOCK1/1521.ts
+#EXTINF:-1,CA: Canal D CA
+http://104.27.131.151:8080/live/STOCK/STOCK1/1504.ts
+#EXTINF:-1,CA: Documenta CA
+http://104.27.131.151:8080/live/STOCK/STOCK1/1446.ts
+#EXTINF:-1,CA: TVASP CA
+http://104.27.131.151:8080/live/STOCK/STOCK1/1469.ts
+#EXTINF:-1,CA: Whdh Nbce CA
+http://104.27.131.151:8080/live/STOCK/STOCK1/1470.ts
+#EXTINF:-1,CA: TLC HD CA
+http://104.27.131.151:8080/live/STOCK/STOCK1/1505.ts
+#EXTINF:-1,CA: Slice CA
+http://104.27.131.151:8080/live/STOCK/STOCK1/1461.ts
+#EXTINF:-1,CA: PIX 11 CA
+http://104.27.131.151:8080/live/STOCK/STOCK1/1471.ts
+#EXTINF:-1,CA: Wild TV CA
+http://104.27.131.151:8080/live/STOCK/STOCK1/1510.ts
+#EXTINF:-1,CA: Life Time CA
+http://104.27.131.151:8080/live/STOCK/STOCK1/1506.ts
+#EXTINF:-1,CA: Film Zone
+http://104.27.131.151:8080/live/STOCK/STOCK1/1515.ts
+#EXTINF:-1,CA: Dscience CA
+http://104.27.131.151:8080/live/STOCK/STOCK1/1518.ts
+#EXTINF:-1,CA: Spike TV HD CA
+http://104.27.131.151:8080/live/STOCK/STOCK1/1536.ts
+#EXTINF:-1,CA: Wfx Fox CA
+http://104.27.131.151:8080/live/STOCK/STOCK1/1527.ts
+#EXTINF:-1,CA: Cine Pop HD CA
+http://104.27.131.151:8080/live/STOCK/STOCK1/1539.ts
+#EXTINF:-1,CA: Global HD CA
+http://104.27.131.151:8080/live/STOCK/STOCK1/1503.ts
+#EXTINF:-1,CA: Kirocbs HD CA
+http://104.27.131.151:8080/live/STOCK/STOCK1/1448.ts
+#EXTINF:-1,CA: History CA
+http://104.27.131.151:8080/live/STOCK/STOCK1/1523.ts
+#EXTINF:-1,CA: Knowledge HD CA
+http://104.27.131.151:8080/live/STOCK/STOCK1/1460.ts
+#EXTINF:-1,CA: RDS 2 TV HD CA
+http://104.27.131.151:8080/live/STOCK/STOCK1/1522.ts
+#EXTINF:-1,CA: AMC HD CA
+http://104.27.131.151:8080/live/STOCK/STOCK1/1534.ts
+#EXTINF:-1,CA: PBSE HD CA
+http://104.27.131.151:8080/live/STOCK/STOCK1/1467.ts
+#EXTINF:-1,CA: Disney jre HD CA
+http://104.27.131.151:8080/live/STOCK/STOCK1/1511.ts
+#EXTINF:-1,CA: SRCM HD CA
+http://104.27.131.151:8080/live/STOCK/STOCK1/1487.ts
+#EXTINF:-1,CA: Historia
+http://104.27.131.151:8080/live/STOCK/STOCK1/1488.ts
+#EXTINF:-1,CA: Golf CAa HD CA
+http://104.27.131.151:8080/live/STOCK/STOCK1/1489.ts
